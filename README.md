@@ -1,0 +1,2 @@
+# PHP-MethodStatic
+# PHP-MethodStatic
